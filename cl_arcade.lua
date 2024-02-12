@@ -1,6 +1,6 @@
 local QBCore = exports['qb-core']:GetCoreObject()
-MenuCore = 'ox' -- Use qb or ox
-TargetCore = 'ox' -- Use qb or ox
+MenuCore = 'qb' -- Use qb or ox
+TargetCore = 'qb' -- Use qb or ox
 
 local arcades = {
     'prop_arcade_01',
